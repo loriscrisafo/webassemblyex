@@ -2,7 +2,7 @@
 (git clone https://github.com/emscripten-core/emsdk.git)
 
 ## Descargar python de la microsoft store
-## Luego entrais a la carpeta emsdk i ejecutais ./emsdk_env.bat
+## Luego entrais a la carpeta emsdk y ejecutáis ./emsdk install latest y luego ./emsdk_env.bat
 ## Luego haceis ./emsdk activate latest
 
 ## En C tendreis que hacer que se muestre 1000 veces una iteracion por consola, pista, es igual que con java, si no te acuerdas busca informacion :3
