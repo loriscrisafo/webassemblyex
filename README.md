@@ -4,7 +4,7 @@
 ## Descargar python de la microsoft store
 ## Luego entrais a la carpeta emsdk y ejecutáis ./emsdk install latest y luego ./emsdk_env.bat
 ## Luego haceis ./emsdk activate latest
-
+## Si esto no os va, buscar como activar scripts en windows
 ## En C tendreis que hacer que se muestre 1000 veces una iteracion por consola, pista, es igual que con java, si no te acuerdas busca informacion :3
 ## Esta iteración tendreis que ponerla donde la indica el fichero .c, si lo poneis en otro lugar puede que no funcione
 
